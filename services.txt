@@ -1,0 +1,31 @@
+mpssvc                           : Stopped    	 # Firewall v programu Windows Defender
+Sense                            : Stopped    	 # Služba Rozšířená ochrana před internetovými útoky v programu Windows Defender
+WdNisSvc                         : Stopped    	 # Služba kontroly sítě v Antivirové ochraně v programu Microsoft Defender 
+WinDefend                        : Stopped    	 # Služba Antivirová ochrana v programu Microsoft Defender 
+icssvc                           : Stopped    	 # Služba mobilní hotspot systému Windows
+BluetoothUserService_5934d       : Stopped    	 # BluetoothUserService_5934d
+BTAGService                      : Stopped    	 # Služba brány zvuku pro Bluetooth
+bthserv                          : Stopped    	 # Služba pro podporu technologie Bluetooth
+Spooler                          : Stopped    	 # Služba zařazování tisku
+Fax                              : Stopped    	 # Fax
+RasMan                           : Stopped    	 # Správce vzdáleného přístupu
+RemoteRegistry                   : Stopped    	 # Vzdálený registr
+wisvc                            : Stopped    	 # Služba Windows Insider
+seclogon                         : Stopped    	 # Sekundární přihlašování
+TabletInputService               : Stopped    	 # Služba Panelu dotykové klávesnice a rukopisu
+CscService                       : Stopped    	 # Offline soubory
+wcncsvc                          : Stopped    	 # Technologie Windows Connect Now – Registrátor konfigurací
+RemoteRegistry                   : Stopped    	 # Vzdálený registr
+SharedAccess                     : Stopped    	 # Sdílení připojení k internetu (ICS)
+stisvc                           : Stopped    	 # Načítání obrázků (WIA)
+wscsvc                           : Stopped    	 # Centrum zabezpečení
+DiagTrack                        : Stopped    	 # Propojená uživatelská prostředí a telemetrie
+RetailDemo                       : Stopped    	 # Služba ukázkového režimu pro prodejny
+WMPNetworkSvc                    : Stopped    	 # Služba Windows Media Player Network Sharing
+AJRouter                         : Stopped    	 # Služba směrovače AllJoyn
+WbioSrvc                         : Stopped    	 # Biometrická služba systému Windows
+PcaSvc                           : Stopped    	 # Program Compatibility Assistant Service
+WSearch                          : Stopped    	 # Windows Search
+
+
+
