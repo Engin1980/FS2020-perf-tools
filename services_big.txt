@@ -1,0 +1,262 @@
+
+Status  Name                                                   DisplayName                                             
+------  ----                                                   -----------                                             
+Stopped AarSvc_2f02ac1                                         Agent Activation Runtime_2f02ac1                        
+Stopped AJRouter                                               Služba směrovače AllJoyn                                
+Stopped ALG                                                    Brána aplikační vrstvy                                  
+Stopped AppIDSvc                                               Identita aplikace                                       
+Running Appinfo                                                Informace o aplikaci                                    
+Stopped AppReadiness                                           Připravenost aplikací                                   
+Running AppXSvc                                                AppX Deployment Service (AppXSVC)                       
+Running AudioEndpointBuilder                                   Koncové vytváření služby Windows Audio                  
+Running Audiosrv                                               Zvuk systému Windows                                    
+Stopped autotimesvc                                            Mobilní čas                                             
+Stopped AxInstSV                                               Instalační program ovládacích prvků ActiveX (AxInstSV)  
+Stopped BcastDVRUserService_2f02ac1                            Uživatelská služba pro GameDVR a vysílání her_2f02ac1   
+Stopped BDESVC                                                 Služba BitLocker Drive Encryption                       
+Running BFE                                                    Služba BFE (Base Filtering Engine)                      
+Stopped BITS                                                   Služba inteligentního přenosu na pozadí                 
+Stopped BluetoothUserService_2f02ac1                           Služba pro podporu uživatelů Bluetooth_2f02ac1          
+Running BrokerInfrastructure                                   Služba infrastruktury úloh na pozadí                    
+Stopped Browser                                                Prohledávání počítačů                                   
+Stopped BTAGService                                            Služba brány zvuku pro Bluetooth                        
+Running BthAvctpSvc                                            Služba AVCTP                                            
+Stopped bthserv                                                Služba pro podporu technologie Bluetooth                
+Running camsvc                                                 Služba Capability Access Manager                        
+Stopped CaptureService_2f02ac1                                 CaptureService_2f02ac1                                  
+Running cbdhsvc_2f02ac1                                        Uživatelská služba schránky_2f02ac1                     
+Running CDPSvc                                                 Služba platformy připojených zařízení                   
+Running CDPUserSvc_2f02ac1                                     Uživatelská služba platformy připojených zařízení_2f0...
+Stopped CertPropSvc                                            Šíření certifikátů                                      
+Stopped ClipSVC                                                Služba pro klientské licence (ClipSVC)                  
+Stopped COMSysApp                                              Systémová aplikace modelu COM+                          
+Stopped ConsentUxUserSvc_2f02ac1                               ConsentUX_2f02ac1                                       
+Running CoreMessagingRegistrar                                 CoreMessaging                                           
+Stopped CredentialEnrollmentManagerUserSvc_2f02ac1             CredentialEnrollmentManagerUserSvc_2f02ac1              
+Running CryptSvc                                               Šifrování                                               
+Running DcomLaunch                                             Spouštěč procesů serveru DCOM                           
+Stopped defragsvc                                              Optimalizace jednotek                                   
+Stopped DeviceAssociationBrokerSvc_2f02ac1                     DeviceAssociationBroker_2f02ac1                         
+Running DeviceAssociationService                               Služba přidružování zařízení                            
+Stopped DeviceInstall                                          Služba instalace zařízení                               
+Stopped DevicePickerUserSvc_2f02ac1                            DevicePicker_2f02ac1                                    
+Stopped DevicesFlowUserSvc_2f02ac1                             Tok zařízení_2f02ac1                                    
+Stopped DevQueryBroker                                         DevQuery Background Discovery Broker                    
+Running Dhcp                                                   Klient DHCP                                             
+Stopped diagnosticshub.standardcollector.service               Standardní služba sběru dat pro Centrum diagnostiky M...
+Stopped diagsvc                                                Diagnostic Execution Service                            
+Running DiagTrack                                              Propojená uživatelská prostředí a telemetrie            
+Running DispBrokerDesktopSvc                                   Služba pro zobrazení zásad                              
+Stopped DisplayEnhancementService                              Služba pro vylepšení zobrazení                          
+Stopped DmEnrollmentSvc                                        Služba zápisu při správě zařízení                       
+Stopped dmwappushservice                                       Služba směrování nabízených zpráv WAP (Wireless Appli...
+Running Dnscache                                               Klient DNS                                              
+Running DoSvc                                                  Optimalizace doručení                                   
+Stopped dot3svc                                                Wired AutoConfig Service                                
+Running DPS                                                    Služba DPS (Diagnostic Policy Service)                  
+Stopped DsmSvc                                                 Správce instalace zařízení                              
+Stopped DsSvc                                                  Služba sdílení dat                                      
+Running DusmSvc                                                Využití dat                                             
+Stopped Eaphost                                                Protokol EAP (Extensible Authentication Protocol)       
+Stopped edgeupdate                                             Microsoft Edge Update Service (edgeupdate)              
+Stopped edgeupdatem                                            Microsoft Edge Update Service (edgeupdatem)             
+Stopped EFS                                                    Systém souborů EFS (Encrypting File System)             
+Stopped embeddedmode                                           Vložený režim                                           
+Stopped EntAppSvc                                              Služba Správa aplikací pro rozlehlé sítě                
+Running EventLog                                               Protokol událostí systému Windows                       
+Running EventSystem                                            Systém událostí COM+                                    
+Stopped Fax                                                    Fax                                                     
+Running fdPHost                                                Hostitel poskytovatele rozpoznávání funkce              
+Running FDResPub                                               Publikování prostředků rozpoznávání funkcí              
+Stopped fhsvc                                                  Služba Historie souborů                                 
+Running FontCache                                              Mezipaměť písem Windows                                 
+Stopped FrameServer                                            Windows Camera Frame Server                             
+Stopped FvSvc                                                  NVIDIA FrameView SDK service                            
+Stopped gpsvc                                                  Klient zásad skupiny                                    
+Stopped GraphicsPerfSvc                                        GraphicsPerfSvc                                         
+Running hidserv                                                Služba Zařízení standardu HID                           
+Stopped HvHost                                                 Hostitelská služba HV                                   
+Running ICEsoundService                                        ICEsound Service                                        
+Stopped icssvc                                                 Služba mobilní hotspot systému Windows                  
+Running IKEEXT                                                 Služba IKE and AuthIP IPsec Keying Modules              
+Running InstallService                                         Instalační služba pro Microsoft Store                   
+Stopped Intel(R) Capability Licensing Service TCP IP Interface Intel(R) Capability Licensing Service TCP IP Interface  
+Stopped Intel(R) TPM Provisioning Service                      Intel(R) TPM Provisioning Service                       
+Running iphlpsvc                                               Pomocná služba protokolu IP                             
+Stopped IpxlatCfgSvc                                           Služba konfigurace překladu adres IP                    
+Running jhi_service                                            Intel(R) Dynamic Application Loader Host Interface Se...
+Running KeyIso                                                 Izolace klíče CNG                                       
+Stopped KtmRm                                                  Služba KTMRM pro koordinátor DTC                        
+Running LanmanServer                                           Server                                                  
+Running LanmanWorkstation                                      Pracovní stanice                                        
+Running lfsvc                                                  Služba sledování zeměpisné polohy                       
+Running LicenseManager                                         Služba správce licencí Windows                          
+Stopped lltdsvc                                                Mapovač zjišťování topologie linkové vrstvy             
+Running lmhosts                                                Podpora rozhraní NetBIOS nad protokolem TCP/IP          
+Running LMS                                                    Intel(R) Management and Security Application Local Ma...
+Running LSM                                                    Místní správce relací                                   
+Stopped LxpSvc                                                 Služba pro jazykové prostředí                           
+Stopped MapsBroker                                             Správce stažených map                                   
+Stopped MessagingService_2f02ac1                               Služba zasílání zpráv_2f02ac1                           
+Stopped MicrosoftEdgeElevationService                          Microsoft Edge Elevation Service (MicrosoftEdgeElevat...
+Stopped MixedRealityOpenXRSvc                                  Windows Mixed Reality OpenXR Service                    
+Running mpssvc                                                 Firewall v programu Windows Defender                    
+Stopped MSDTC                                                  Služba DTC (Distributed Transaction Coordinator)        
+Stopped MSiSCSI                                                Služba iniciátoru iSCSI společnosti Microsoft           
+Stopped msiserver                                              Instalační služba systému Windows                       
+Stopped NaturalAuthentication                                  Přirozené ověřování                                     
+Stopped NcaSvc                                                 Pomocník pro připojení k síti                           
+Running NcbService                                             Zprostředkovatel síťového připojení                     
+Stopped NcdAutoSetup                                           Automatická instalace zařízení připojených k síti       
+Stopped Netlogon                                               Služba Netlogon                                         
+Stopped Netman                                                 Síťová připojení                                        
+Running netprofm                                               Služba seznamu sítí                                     
+Stopped NetSetupSvc                                            Služba instalace sítě                                   
+Stopped NetTcpPortSharing                                      Služba sdílení portů Net.Tcp                            
+Running NgcCtnrSvc                                             Microsoft Passport Container                            
+Running NgcSvc                                                 Microsoft Passport                                      
+Running NlaSvc                                                 Sledování umístění v síti (NLA)                         
+Running nsi                                                    Služba rozhraní síťového úložiště                       
+Running NvContainerLocalSystem                                 NVIDIA LocalSystem Container                            
+Running NVDisplay.ContainerLocalSystem                         NVIDIA Display Container LS                             
+Running OneSyncSvc_2f02ac1                                     Hostitel synchronizace_2f02ac1                          
+Stopped p2pimsvc                                               Správce identit sítě rovnocenných počítačů              
+Stopped p2psvc                                                 Seskupování v sítích peer-to-peer                       
+Running PcaSvc                                                 Program Compatibility Assistant Service                 
+Stopped perceptionsimulation                                   Windows Perception Simulation Service                   
+Stopped PerfHost                                               Hostitel knihoven DLL čítačů výkonu                     
+Stopped PhoneSvc                                               Telefonní služba                                        
+Stopped PimIndexMaintenanceSvc_2f02ac1                         Data kontaktů_2f02ac1                                   
+Stopped pla                                                    Výstrahy a protokolování výkonu                         
+Running PlugPlay                                               Plug and Play                                           
+Stopped PNRPAutoReg                                            Služba publikování názvu počítače pomocí protokolu PNRP 
+Stopped PNRPsvc                                                Protokol PNRP (Peer Name Resolution Protocol)           
+Stopped PolicyAgent                                            Agent zásad protokolu IPsec                             
+Running Power                                                  Napájení                                                
+Stopped PrintNotify                                            Rozšíření a oznámení tiskárny                           
+Stopped PrintWorkflowUserSvc_2f02ac1                           PrintWorkflow_2f02ac1                                   
+Running ProfSvc                                                Služba Profil uživatele                                 
+Stopped PushToInstall                                          Služba Windows PushToInstall                            
+Stopped QWAVE                                                  Sada qWave (Quality Windows Audio Video Experience)     
+Stopped RasAuto                                                Správce automatického připojení pomocí vzdáleného pří...
+Stopped RasMan                                                 Správce vzdáleného přístupu                             
+Stopped RemoteAccess                                           Směrování a vzdálený přístup                            
+Stopped RemoteRegistry                                         Vzdálený registr                                        
+Stopped RetailDemo                                             Služba ukázkového režimu pro prodejny                   
+Running RmSvc                                                  Služba pro správu rádia                                 
+Running RpcEptMapper                                           Mapovač koncových bodů protokolu RPC                    
+Stopped RpcLocator                                             Lokátor vzdáleného volání procedur (RPC)                
+Running RpcSs                                                  Vzdálené volání procedur (RPC)                          
+Running RstMwService                                           Intel(R) Storage Middleware Service                     
+Running SamSs                                                  Správce zabezpečení účtů                                
+Stopped SCardSvr                                               Čipová karta                                            
+Stopped ScDeviceEnum                                           Služba výčtu zařízení čipové karty                      
+Stopped SCPolicySvc                                            Zásady odebrání čipové karty                            
+Stopped SDRSVC                                                 Windows Zálohování                                      
+Stopped seclogon                                               Sekundární přihlašování                                 
+Running SecurityHealthService                                  Služba Zabezpečení Windows                              
+Running SEMgrSvc                                               Správce plateb a NFC/SE                                 
+Running SENS                                                   Služba oznamování událostí systému                      
+Stopped SensorDataService                                      Služba dat ze senzorů                                   
+Stopped SensorService                                          Senzorová služba                                        
+Stopped SensrSvc                                               Služba monitorující senzory                             
+Stopped SessionEnv                                             Konfigurace vzdálené plochy                             
+Running SgrmBroker                                             Zprostředkovatel monitorování Ochrany System Guard v ...
+Stopped SharedAccess                                           Sdílení připojení k internetu (ICS)                     
+Stopped SharedRealitySvc                                       Služba Spatial Data                                     
+Running ShellHWDetection                                       Rozpoznávání hardwaru                                   
+Stopped shpamsvc                                               Shared PC Account Manager                               
+Running Schedule                                               Plánovač úloh                                           
+Stopped smphost                                                Prostory úložiště SMP společnosti Microsoft             
+Stopped SmsRouter                                              Služba směrovače SMS systému Microsoft Windows          
+Stopped SNMPTRAP                                               Depeše protokolu SNMP                                   
+Stopped spectrum                                               Windows Perception Service                              
+Running Spooler                                                Služba zařazování tisku                                 
+Stopped sppsvc                                                 Ochrana softwaru                                        
+Running SSDPSRV                                                SSDP Discovery                                          
+Stopped ssh-agent                                              OpenSSH Authentication Agent                            
+Stopped SstpSvc                                                Služba SSTP (Secure Socket Tunneling Protocol)          
+Running StateRepository                                        Služba State Repository                                 
+Running Steam Client Service                                   Steam Client Service                                    
+Stopped stisvc                                                 Načítání obrázků (WIA)                                  
+Running StorSvc                                                Služba úložiště                                         
+Stopped svsvc                                                  Ověřování přechodných chyb                              
+Stopped swprv                                                  Služba Zprostředkovatel softwaru služby Stínová kopie...
+Running SysMain                                                SysMain                                                 
+Running SystemEventsBroker                                     Zprostředkovatel systémových událostí                   
+Running TabletInputService                                     Služba Panelu dotykové klávesnice a rukopisu            
+Stopped TapiSrv                                                Telefonie                                               
+Stopped TermService                                            Vzdálená plocha                                         
+Stopped Themes                                                 Motivy                                                  
+Stopped TieringEngineService                                   Správa vrstev úložiště                                  
+Running TimeBrokerSvc                                          Zprostředkovatel času                                   
+Running tmHInstall                                             Thrustmaster® Hotas Service                             
+Running TokenBroker                                            Správce webových účtů                                   
+Running TrkWks                                                 Klient služby Sledování distribuovaných odkazů          
+Stopped TroubleshootingSvc                                     Služba doporučeného řešení problémů                     
+Stopped TrustedInstaller                                       Instalační služba modulů systému Windows                
+Stopped tzautoupdate                                           Automatický aktualizátor časových pásem                 
+Stopped UdkUserSvc_2f02ac1                                     Uživatelská služba UDK_2f02ac1                          
+Stopped uhssvc                                                 Microsoft Update Health Service                         
+Stopped UmRdpService                                           Přesměrovač portů uživatelského režimu služby Vzdálen...
+Stopped UnistoreSvc_2f02ac1                                    Úložiště uživatelských dat_2f02ac1                      
+Stopped upnphost                                               Hostitel zařízení UPnP                                  
+Stopped UserDataSvc_2f02ac1                                    Přístup k uživatelským datům_2f02ac1                    
+Running UserManager                                            Správce uživatelů                                       
+Running UsoSvc                                                 Aktualizovat službu Orchestrator                        
+Stopped VacSvc                                                 Služba Volumetric Audio Compositor                      
+Running VaultSvc                                               Správce pověření                                        
+Stopped vds                                                    Virtuální disk                                          
+Stopped vmicguestinterface                                     Rozhraní služby hosta technologie Hyper-V               
+Stopped vmickvpexchange                                        Služba výměny dat technologie Hyper-V                   
+Stopped vmicrdv                                                Služba Virtualizace vzdálené plochy Hyper-V             
+Stopped vmicshutdown                                           Služba vypínání hostovaného počítače technologie Hyper-V
+Stopped vmictimesync                                           Služba synchronizace času technologie Hyper-V           
+Stopped vmicvmsession                                          Přímá služba PowerShell pro Hyper-V                     
+Stopped vmicvss                                                Žadatel služby Stínová kopie svazku technologie Hyper-V 
+Stopped vmicheartbeat                                          Služba prezenčního signálu technologie Hyper-V          
+Stopped VSS                                                    Stínová kopie svazku                                    
+Running W32Time                                                Windows Time                                            
+Stopped WaaSMedicSvc                                           Služba Windows Update Medic                             
+Stopped WalletService                                          WalletService                                           
+Stopped WarpJITSvc                                             WarpJITSvc                                              
+Stopped wbengine                                               Služba jádra pro zálohování dat na úrovni bloků         
+Stopped WbioSrvc                                               Biometrická služba systému Windows                      
+Running Wcmsvc                                                 Správce připojení systému Windows                       
+Stopped wcncsvc                                                Technologie Windows Connect Now – Registrátor konfigu...
+Running WdiServiceHost                                         Hostitel diagnostické služby                            
+Running WdiSystemHost                                          Hostitel diagnostického systému                         
+Running WdNisSvc                                               Služba kontroly sítě v Antivirové ochraně v programu ...
+Stopped WebClient                                              Webový klient                                           
+Stopped Wecsvc                                                 Sběr událostí systému Windows                           
+Stopped WEPHOSTSVC                                             Hostitelská služba zprostředkovatele šifrování Windows  
+Stopped wercplsupport                                          Podpora ovládacího panelu Hlášení problémů              
+Stopped WerSvc                                                 Služba Zasílání zpráv o chybách systému Windows         
+Stopped WFDSConMgrSvc                                          Služba Správce připojení služeb Wi-Fi Direct            
+Stopped WiaRpc                                                 Události načítání snímků                                
+Running WinDefend                                              Služba Antivirová ochrana v programu Microsoft Defender 
+Running WinHttpAutoProxySvc                                    Služba WinHTTP WPAD                                     
+Running Winmgmt                                                Služba WMI                                              
+Stopped WinRM                                                  Vzdálená správa systému Windows (WS-Management)         
+Stopped wisvc                                                  Služba Windows Insider                                  
+Running WlanSvc                                                Automatická konfigurace sítě WLAN                       
+Stopped wlidsvc                                                Pomocník pro přihlášení pomocí účtu Microsoft           
+Stopped wlpasvc                                                Služba LPA (Local Profile Assistant)                    
+Stopped WManSvc                                                Služba správy Windows                                   
+Stopped wmiApSrv                                               Adaptér výkonu rozhraní WMI                             
+Stopped WMPNetworkSvc                                          Služba Windows Media Player Network Sharing             
+Stopped workfolderssvc                                         Pracovní složky                                         
+Stopped WpcMonSvc                                              Rodičovská kontrola                                     
+Stopped WPDBusEnum                                             Služba Výčet přenosných zařízení                        
+Running WpnService                                             Systémová služba nabízených oznámení Windows            
+Running WpnUserService_2f02ac1                                 Uživatelská služba nabízených oznámení Windows_2f02ac1  
+Running wscsvc                                                 Centrum zabezpečení                                     
+Running WSearch                                                Windows Search                                          
+Stopped wuauserv                                               Windows Update                                          
+Stopped WwanSvc                                                Automatická konfigurace sítě WWAN                       
+Running XblAuthManager                                         Xbox Live Auth Manager                                  
+Stopped XblGameSave                                            Uložení hry Xbox Live                                   
+Stopped XboxGipSvc                                             Xbox Accessory Management Service                       
+Stopped XboxNetApiSvc                                          Síťová služba Xbox Live                                 
+
+
